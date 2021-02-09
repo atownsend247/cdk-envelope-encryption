@@ -10,7 +10,7 @@ new CdkEnvelopeEncryptionStack(
         env: {
             region: 'eu-west-1'
         },
-        description: 'Envryption Stack in Primary Region'
+        description: 'Encryption Stack in Primary Region'
     }
 );
 new CdkEnvelopeEncryptionStack(
